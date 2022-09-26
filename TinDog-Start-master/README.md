@@ -22,5 +22,5 @@ TinDog allows the user to find other dogs & their owners nearby in the swipe lef
  My Website Snapshot
 </p>
  
-![Alt text ](https://github.com/utkarshkr-creator/TinDog_Project1/blob/main/TinDog.png?raw=true)
+![Alt text ](https://github.com/utkarshkr-creator/Web_Projects/blob/main/TinDog-Start-master/TinDog.png)
 
